@@ -1,0 +1,258 @@
+{
+  "period": "12 derniers jours",
+  "generated_at": "2025-08-25T01:05:43.744559",
+  "gym_id": 4,
+  "platforms": {
+    "instagram": {
+      "platform": "instagram",
+      "total_posts": "29",
+      "avg_daily_reach": 14903.23076923077,
+      "total_leads": "15",
+      "key_metrics": [
+        {
+          "name": "engagement_rate",
+          "current_value": 0.059535951045385005,
+          "average": 0.06313246718980511,
+          "trend": "up",
+          "change_percent": 16.873289526482992
+        },
+        {
+          "name": "reach",
+          "current_value": "15688",
+          "average": 14903.23076923077,
+          "trend": "down",
+          "change_percent": -12.798193860182906
+        },
+        {
+          "name": "followers",
+          "current_value": "8215",
+          "average": 8208.153846153846,
+          "trend": "stable",
+          "change_percent": 0.07138007277283567
+        },
+        {
+          "name": "leads_generated",
+          "current_value": "0",
+          "average": 1.1538461538461537,
+          "trend": "down",
+          "change_percent": -50.0
+        }
+      ],
+      "trends": {
+        "engagement_rate": {
+          "trend": "up",
+          "change": 16.873289526482992,
+          "recent_avg": 0.06679065933390381,
+          "previous_avg": 0.05714792456386652
+        },
+        "reach": {
+          "trend": "down",
+          "change": -12.798193860182906,
+          "recent_avg": 14125.57142857143,
+          "previous_avg": 16198.714285714286
+        },
+        "followers": {
+          "trend": "stable",
+          "change": 0.07138007277283567,
+          "recent_avg": 8211.42857142857,
+          "previous_avg": 8205.57142857143
+        },
+        "leads_generated": {
+          "trend": "down",
+          "change": -50.0,
+          "recent_avg": 0.7142857142857143,
+          "previous_avg": 1.4285714285714286
+        }
+      },
+      "goals_status": {
+        "engagement_rate": {
+          "target": 0.08,
+          "current": 0.06313246718980511,
+          "status": "below_target",
+          "gap_percent": -21.08441601274361
+        }
+      }
+    },
+    "facebook": {
+      "platform": "facebook",
+      "total_posts": "14",
+      "avg_daily_reach": 14699.846153846154,
+      "total_leads": "6",
+      "key_metrics": [
+        {
+          "name": "engagement_rate",
+          "current_value": 0.05196936542669584,
+          "average": 0.05428339045423288,
+          "trend": "stable",
+          "change_percent": -2.4070146462607322
+        },
+        {
+          "name": "reach",
+          "current_value": "18280",
+          "average": 14699.846153846154,
+          "trend": "stable",
+          "change_percent": 2.992395886686892
+        },
+        {
+          "name": "followers",
+          "current_value": "9847",
+          "average": 9846.076923076924,
+          "trend": "stable",
+          "change_percent": -0.005803746318256347
+        },
+        {
+          "name": "leads_generated",
+          "current_value": "0",
+          "average": 0.46153846153846156,
+          "trend": "up",
+          "change_percent": 100.0
+        }
+      ],
+      "trends": {
+        "engagement_rate": {
+          "trend": "stable",
+          "change": -2.4070146462607322,
+          "recent_avg": 0.053633428478419495,
+          "previous_avg": 0.05495623305713799
+        },
+        "reach": {
+          "trend": "stable",
+          "change": 2.992395886686892,
+          "recent_avg": 14937.42857142857,
+          "previous_avg": 14503.42857142857
+        },
+        "followers": {
+          "trend": "stable",
+          "change": -0.005803746318256347,
+          "recent_avg": 9845.285714285714,
+          "previous_avg": 9845.857142857143
+        },
+        "leads_generated": {
+          "trend": "up",
+          "change": 100.0,
+          "recent_avg": 0.5714285714285714,
+          "previous_avg": 0.2857142857142857
+        }
+      },
+      "goals_status": {
+        "engagement_rate": {
+          "target": 0.06,
+          "current": 0.05428339045423288,
+          "status": "below_target",
+          "gap_percent": -9.527682576278528
+        }
+      }
+    },
+    "linkedin": {
+      "platform": "linkedin",
+      "total_posts": "8",
+      "avg_daily_reach": 7880.461538461538,
+      "total_leads": "14",
+      "key_metrics": [
+        {
+          "name": "engagement_rate",
+          "current_value": 0.09938191281717632,
+          "average": 0.06332778870488334,
+          "trend": "up",
+          "change_percent": 11.43628600950821
+        },
+        {
+          "name": "reach",
+          "current_value": "6148",
+          "average": 7880.461538461538,
+          "trend": "down",
+          "change_percent": -5.00312249085556
+        },
+        {
+          "name": "followers",
+          "current_value": "9955",
+          "average": 9955.384615384615,
+          "trend": "stable",
+          "change_percent": 0.01865644867324209
+        },
+        {
+          "name": "leads_generated",
+          "current_value": "2",
+          "average": 1.0769230769230769,
+          "trend": "up",
+          "change_percent": 150.00000000000003
+        }
+      ],
+      "trends": {
+        "engagement_rate": {
+          "trend": "up",
+          "change": 11.43628600950821,
+          "recent_avg": 0.0671806108007429,
+          "previous_avg": 0.0602861179302142
+        },
+        "reach": {
+          "trend": "down",
+          "change": -5.00312249085556,
+          "recent_avg": 7605.857142857143,
+          "previous_avg": 8006.428571428572
+        },
+        "followers": {
+          "trend": "stable",
+          "change": 0.01865644867324209,
+          "recent_avg": 9956.285714285714,
+          "previous_avg": 9954.42857142857
+        },
+        "leads_generated": {
+          "trend": "up",
+          "change": 150.00000000000003,
+          "recent_avg": 1.4285714285714286,
+          "previous_avg": 0.5714285714285714
+        }
+      },
+      "goals_status": {}
+    }
+  },
+  "summary": {
+    "total_leads_generated": "2",
+    "average_engagement_rate": 0.0602,
+    "total_reach": 40116,
+    "leads_per_day": 0.17,
+    "strong_performing_metrics": 4,
+    "underperforming_metrics": 2,
+    "top_performing_metric": {
+      "name": "leads_generated",
+      "current_value": "2",
+      "average": 1.0769230769230769,
+      "trend": "up",
+      "change_percent": 150.00000000000003
+    },
+    "most_concerning_metric": {
+      "name": "leads_generated",
+      "current_value": "0",
+      "average": 1.1538461538461537,
+      "trend": "down",
+      "change_percent": -50.0
+    }
+  },
+  "recommendations": [
+    {
+      "platform": "instagram",
+      "type": "conversion",
+      "priority": "high",
+      "title": "Optimiser la génération de leads",
+      "description": "Peu de leads générés via instagram. Ajouter plus de call-to-action, créer du contenu éducatif, utiliser les formulaires de contact intégrés.",
+      "expected_impact": "+40-60% leads"
+    },
+    {
+      "platform": "facebook",
+      "type": "conversion",
+      "priority": "high",
+      "title": "Optimiser la génération de leads",
+      "description": "Peu de leads générés via facebook. Ajouter plus de call-to-action, créer du contenu éducatif, utiliser les formulaires de contact intégrés.",
+      "expected_impact": "+40-60% leads"
+    },
+    {
+      "platform": "linkedin",
+      "type": "conversion",
+      "priority": "high",
+      "title": "Optimiser la génération de leads",
+      "description": "Peu de leads générés via linkedin. Ajouter plus de call-to-action, créer du contenu éducatif, utiliser les formulaires de contact intégrés.",
+      "expected_impact": "+40-60% leads"
+    }
+  ]
+}

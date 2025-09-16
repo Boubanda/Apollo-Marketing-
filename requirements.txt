@@ -1,0 +1,40 @@
+# Core dependencies
+streamlit==1.28.1
+pandas==2.1.1
+numpy==1.24.3
+requests==2.31.0
+python-dotenv==1.0.0
+
+# AI & Content Generation
+openai==1.3.3
+Pillow==10.0.1
+moviepy==1.0.3
+beautifulsoup4==4.12.2
+
+# Social Media APIs
+instagrapi==2.0.0
+facebook-sdk==3.1.0
+linkedin-api==2.0.0a5
+tweepy==4.14.0
+
+# Data Analysis & Visualization
+plotly==5.17.0
+seaborn==0.12.2
+matplotlib==3.7.2
+wordcloud==1.9.2
+
+# Automation & Scheduling
+schedule==1.2.0
+APScheduler==3.10.4
+python-crontab==3.0.0
+
+# Web Scraping & SEO
+selenium==4.15.0
+webdriver-manager==4.0.1
+python-sitemap==1.0.2
+
+# Utils
+colorama==0.4.6
+tqdm==4.66.1
+python-dateutil==2.8.2
+pytz==2023.3
